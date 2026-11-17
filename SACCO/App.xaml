@@ -1,0 +1,17 @@
+﻿<Application
+    x:Class="SACCO.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    RequestedTheme="Light">
+
+    <Application.Resources>
+        <SolidColorBrush x:Key="NavyBrush" Color="#172B4D"/>
+        <SolidColorBrush x:Key="GoldBrush" Color="#E8B923"/>
+        <SolidColorBrush x:Key="BlueBrush" Color="#2F5C9E"/>
+        <SolidColorBrush x:Key="SlateBrush" Color="#64799C"/>
+        <SolidColorBrush x:Key="TileGoldBrush" Color="#C7952C"/>
+        <SolidColorBrush x:Key="PageBackgroundBrush" Color="#F0F2F7"/>
+        <SolidColorBrush x:Key="CardBorderBrush" Color="#3B78D0"/>
+        <SolidColorBrush x:Key="MutedTextBrush" Color="#555555"/>
+    </Application.Resources>
+</Application>
